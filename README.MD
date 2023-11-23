@@ -1,3 +1,8 @@
+# Use:
+# https://github.com/hansalemaos/usefuladb
+# https://github.com/hansalemaos/usefuladbplus
+
+
 ### Makes strings compatible for "adb shell input text ..."
 
 
